@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/burhanuddinfarigh/-American_Express_bank_Churn_Prediction/blob/main/American_project_banner.png" />
+</p>
 ## American Express Customer Churn Prediction
 End-to-end machine learning project with interpretability, advanced models, and actionable business insights.
 
