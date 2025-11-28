@@ -17,18 +17,18 @@ It uses machine learning and deep learning models to identify customers at high 
 ✔ Final Recommendations & Next Steps
 
 #  Repository Structure
-├── notebooks/
-│   └── Amex_churn_Notebook.ipynb
-├── data/
-│   └── BankChurners.csv   (not included due to size/licensing)
-├── models/
-│   ├── preprocessor.joblib
-│   ├── logistic_regression.joblib
-│   ├── random_forest.joblib
-│   ├── xgboost_model.joblib
-│   ├── lightgbm_model.joblib
-│   └── pytorch_model.pth
-├── README.md
+# notebooks/
+ Amex_churn_Notebook.ipynb
+ # data/
+ BankChurners.csv   (not included due to size/licensing)
+ # models/
+ preprocessor.joblib
+ logistic_regression.joblib
+ random_forest.joblib
+ xgboost_model.joblib
+ lightgbm_model.joblib
+ pytorch_model.pth
+#  README.md
 
 # 1. Data Cleaning
 
